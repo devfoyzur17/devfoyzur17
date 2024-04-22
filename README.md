@@ -1,3 +1,4 @@
+![logo](https://github.com/devfoyzur17/devfoyzur17/blob/main/foyzur-banner.png)
 <h1 align="center">Hi 👋, I'm Foyzur Rahaman</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 
